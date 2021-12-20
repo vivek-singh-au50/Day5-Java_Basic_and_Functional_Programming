@@ -21,7 +21,7 @@ public class VowelConsonantCheck{
 	 i++;
 	}
 	if(i==1)
-	System.out.println("Entered character "+ch+" is  Vowel");
+	System.out.println("Entered character "+ch+" is Vowel");
 	else
 		if((ch>='a'&&ch<='z')||(ch>='A'&&ch<='Z'))
 		System.out.println("Entered character "+ch+" is Consonent");
