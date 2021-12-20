@@ -7,7 +7,7 @@ public class FlipCoinPercentage {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter number of times you want to FLIP the COIN*");
+		System.out.println("Enter number of times you want to FLIP the COIN");
 		int n = sc.nextInt();
 		
 		int head =0,tail=0;
